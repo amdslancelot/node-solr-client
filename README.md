@@ -1,0 +1,1 @@
+# node-solr-client
